@@ -1,0 +1,1 @@
+"""Package CRUD untuk operasi database Deteksi Tanaman Melon."""

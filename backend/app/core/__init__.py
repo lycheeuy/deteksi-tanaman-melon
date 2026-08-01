@@ -1,0 +1,1 @@
+"""Package core: keamanan dan utilitas inti."""
