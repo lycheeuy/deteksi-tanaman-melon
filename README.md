@@ -14,10 +14,11 @@ MelonVision AI adalah sistem berbasis Artificial Intelligence yang dirancang unt
 * 🏷️ Multi-Class Detection
 
   * Tunas Air
-  * Buah Siap
-  * Buah Tidak Siap
-  * Daun Siap
-  * Daun Tidak Siap
+  * buah siap
+  * buah tidak
+  * daun siap
+  * daun tidak
+     
 * 📊 Dashboard Monitoring
 * 📜 Detection History
 * 📈 Detection Statistics
@@ -254,11 +255,11 @@ Model yang digunakan:
 
 Object yang dideteksi:
 
-* Tunas Air
-* Buah Siap
-* Buah Tidak Siap
-* Daun Siap
-* Daun Tidak Siap
+ * Tunas Air
+ * buah siap
+ * buah tidak
+ * daun siap
+ * daun tidak
 
 ---
 
@@ -324,11 +325,6 @@ TROUBLESHOOTING.md
 * AI Engineer
 * Machine Learning Enthusiast
 * Full Stack Developer
-
-GitHub: *(Tambahkan URL GitHub Anda)*
-
-LinkedIn: *(Tambahkan URL LinkedIn Anda)*
-
 ---
 
 # 📄 License
