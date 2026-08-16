@@ -1,4 +1,4 @@
-# 🍈 MelonVision AI
+# MelonVision AI
 
 > **AI-Based Melon Plant Detection System using ESP32-CAM, TensorFlow Lite, FastAPI, Next.js, and PostgreSQL**
 
@@ -6,12 +6,12 @@ MelonVision AI adalah sistem berbasis Artificial Intelligence yang dirancang unt
 
 ---
 
-# 📌 Features
+# Features
 
-* 📷 Live Camera Streaming dari ESP32-CAM
-* 🤖 AI Object Detection menggunakan TensorFlow Lite
-* 📦 Bounding Box Detection
-* 🏷️ Multi-Class Detection
+* Live Camera Streaming dari ESP32-CAM
+* AI Object Detection menggunakan TensorFlow Lite
+* Bounding Box Detection
+* Multi-Class Detection
 
   * Tunas Air
   * buah siap
@@ -19,17 +19,17 @@ MelonVision AI adalah sistem berbasis Artificial Intelligence yang dirancang unt
   * daun siap
   * daun tidak
      
-* 📊 Dashboard Monitoring
-* 📜 Detection History
-* 📈 Detection Statistics
-* 💾 PostgreSQL Database
-* 📤 REST API dengan FastAPI
-* 🌐 Web Interface menggunakan Next.js
-* ☁️ VPS Deployment Support
+* Dashboard Monitoring
+* Detection History
+* Detection Statistics
+* PostgreSQL Database
+* REST API dengan FastAPI
+* Web Interface menggunakan Next.js
+* VPS Deployment Support
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
 ESP32-CAM
@@ -56,7 +56,7 @@ User
 
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 ## Frontend
 
@@ -93,7 +93,7 @@ User
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 melon-ai/
@@ -124,7 +124,7 @@ melon-ai/
 
 ---
 
-# 🚀 Main Features
+# Main Features
 
 ## Live Streaming
 
@@ -169,7 +169,7 @@ Dashboard menyediakan informasi:
 
 ---
 
-# 📡 REST API
+# REST API
 
 Beberapa endpoint utama:
 
@@ -184,7 +184,7 @@ Beberapa endpoint utama:
 
 ---
 
-# ⚙️ Environment Variables
+# Environment Variables
 
 Contoh konfigurasi `.env`
 
@@ -200,7 +200,7 @@ UPLOAD_DIR=uploads
 
 ---
 
-# ▶️ Running Project
+# Running Project
 
 ## Backend
 
@@ -226,7 +226,7 @@ npm run dev
 
 ---
 
-# 🔄 Deployment
+# Deployment
 
 Backend berjalan menggunakan:
 
@@ -246,7 +246,7 @@ Server menggunakan:
 
 ---
 
-# 🤖 AI Model
+# AI Model
 
 Model yang digunakan:
 
@@ -263,7 +263,7 @@ Object yang dideteksi:
 
 ---
 
-# 🔄 Mengganti Model AI
+# Mengganti Model AI
 
 Untuk mengganti model:
 
@@ -274,7 +274,7 @@ Untuk mengganti model:
 
 ---
 
-# 📶 Mengganti WiFi ESP32
+# Mengganti WiFi ESP32
 
 Jika ESP32 berpindah jaringan:
 
@@ -286,7 +286,7 @@ Jika ESP32 berpindah jaringan:
 
 ---
 
-# 📖 Documentation
+# Documentation
 
 Dokumentasi lebih lengkap tersedia pada folder:
 
@@ -303,7 +303,7 @@ TROUBLESHOOTING.md
 
 ---
 
-# 📌 Roadmap
+# Roadmap
 
 * Multiple AI Model Support
 * Model Manager Dashboard
@@ -318,7 +318,7 @@ TROUBLESHOOTING.md
 
 ---
 
-# 👨‍💻 Developer
+# Developer
 
 **Nashiruddin Alif Alvareezi**
 
@@ -327,7 +327,7 @@ TROUBLESHOOTING.md
 * Full Stack Developer
 ---
 
-# 📄 License
+# License
 
 This project is developed for educational and research purposes.
 
